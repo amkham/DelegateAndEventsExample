@@ -14,6 +14,7 @@ namespace DelegateAndEventsExample
         static void Main(string[] args)
         {
             Del _delate = PrintMessage;
+            /// Коммент
 
             Del2 _delate2 = PrintNum;
 
